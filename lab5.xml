@@ -1,0 +1,34 @@
+<?xml-stylesheet href="lab5.css"?>
+<html>
+<head>
+	<h1>Student Description</h1>
+</head>
+<students>
+	<student1>
+		<usn>USN: 4MT15CS010</usn>
+		<name>Name: Anantha Padmanabha</name>
+		<college>College: Mangalore institute of technology and engineering</college>
+		<branch>Branch: Computer Science Engineering</branch>
+		<yoj>Year: 2015</yoj>
+		<email>E-mail: ananthainnanje@gmail.com</email>
+	</student1>
+	<student2>
+		<usn>USN: 4MT15CS011</usn>
+		<name>Name: Anil Kumar K</name>
+		<college>College: Mangalore institute of technology and engineering</college>
+		<branch>Branch: Computer Science Engineering</branch>
+		<yoj>Year: 2015</yoj>
+		<email>E-mail: Anilkumark@gmail.com</email>
+	</student2>
+	<student3>
+		<usn>USN: 4MT15CS012</usn>
+		<name>Name: Ankitha Shetty</name>
+		<college>College: Mangalore institute of technology and engineering</college>
+		<branch>Branch: Computer Science Engineering</branch>
+		<yoj>Year: 2015</yoj>
+		<email>E-mail: ankithashetty@gmail.com</email>
+	</student3>
+</students>
+</html>
+
+

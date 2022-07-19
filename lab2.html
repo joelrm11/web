@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<style>
+	table,tr,td{
+		border:2px solid black;
+		border-collapse:collapse;
+		background-color:blue;
+		text-align:center;
+		}
+	table{
+		margin:auto;
+		}
+</style>
+<script>
+	document.write("<h1>Number from 1 to 10 and there squares and cubes</h1>");
+	document.write("<table>");
+	document.write("<tr><td>Number</td><td>Square</td><td>Cude</td></tr>");
+	for(var n=1;n<=10;n++)
+	{
+		document.write("<tr><td>"+n+"</td><td>"+n*n+"</td><td>"+n*n*n+"</td></tr>");
+	}
+	document.write("</table>");
+</script>
+</head>
+</html>
